@@ -9,7 +9,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 🌍 Pune, India  
 📧 [ganeshrodge25@gmail.com](mailto:ganeshrodge25@gmail.com)  
 📱 +91 9665552822  
-🌐 [Portfolio](https://ganeshrodge.netlify.app)  
+🌐 [Portfolio](https://ganeshrodge.dev)  
 💼 [LinkedIn](https://linkedin.com/in/ganesh-rodge)  
 💻 [GitHub](https://github.com/ganesh-rodge)  
 
